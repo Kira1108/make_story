@@ -1,6 +1,6 @@
 # Story teller
 
-What is a good demo project?
-Tell a good story that the audiences can relate to.
+Model: Qwen2.5-7b(int4), Ollama
+Agents: Vefity Agent -> Business Agent
 
 ![Demo Image](image/image.png)
