@@ -1,0 +1,1 @@
+LLM_NAME = "qwen2.5:7b"
